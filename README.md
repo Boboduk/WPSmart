@@ -1,1 +1,2 @@
-# WPSmart
+npm install
+npm run dev 
